@@ -1,2 +1,4 @@
 # Coursera-ml-solutions
-Completed coursera ML course assignments.
+
+Aimed to learn and implement Real World ML algorithms.
+Includes all assignments and lecture notes.
